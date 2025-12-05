@@ -128,7 +128,7 @@ export default function Register() {
             to={"/login"}
             className="text-teal-600 font-medium hover:underline dark:text-teal-400"
           >
-            Login here
+            Login
           </Link>
         </p>
       </div>

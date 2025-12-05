@@ -11,7 +11,6 @@ export default function CustomerReview() {
       feedback:
         "Tasty Treasury has completely transformed how I discover and organize recipes. It's an absolute game-changer!",
       image: "https://i.ibb.co.com/qZ3HpyT/unnamed.jpg",
-      // image: "https://i.ibb.co.com/PQ9K6cZ/logo.png",
        
     },
     {

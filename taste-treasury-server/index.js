@@ -16,7 +16,7 @@ const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 //middleware
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://assignment-11-7312b.web.app", "https://taste-treasury.netlify.app"],
+    origin: ["http://localhost:5173"],
     credentials: true,
   })
 );
@@ -240,7 +240,7 @@ async function run() {
 run();
 
 app.get("/", (req, res) => {
-  res.send("Hello from assignment-11 server");
+  res.send("Server Running");
 });
 
 app.listen(port, () => {

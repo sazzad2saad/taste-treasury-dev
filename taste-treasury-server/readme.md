@@ -3,8 +3,8 @@
 This is the backend server for **Taste Treasury**, the restaurant management platform. It is built using **Node.js**, **Express**, and **MongoDB**, providing a robust API for managing restaurant operations such as menus, orders, and user authentication.
 
 🔗 **Live API Endpoint:**  
-- [Taste Treasury Backend (Vercel)](https://assignment-11-server-six-zeta.vercel.app/)  
-- [Taste Treasury Frontend (netlify)](https://taste-treasury.netlify.app/)  
+- [Taste Treasury Backend (Vercel)]()  
+- [Taste Treasury Frontend (netlify)]()  
 
 ---
 
@@ -103,7 +103,7 @@ Registers a new user.
 1. Clone the repository:  
 
     ```bash
-    git clone https://github.com/Abubokkor98/taste-treasury-server.git
+    git clone https://github.com/sazzad2saad/taste-treasury-dev.git
     ```  
 
 2. Install dependencies:  
@@ -179,10 +179,9 @@ Feel free to fork the repository, report issues, and submit pull requests to imp
 
 ### **🙋‍♂️ About the Developer**  
 
-Built with 💻 and passion by **Abu Bokkor Siddik**.  
+Built with 💻 and passion by **Sazzadur Rahman Saad**.  
 
-- **GitHub**: [Abubokkor98](https://github.com/Abubokkor98)  
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/abubokkor)  
+- **GitHub**: [sazzad2saad](https://https://github.com/sazzad2saad)  
 
 ---
 

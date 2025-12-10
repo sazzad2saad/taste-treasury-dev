@@ -4,8 +4,8 @@
 
 🔗 **Live Site:**
 
-- [Taste Treasury Live (firebase)](https://assignment-11-7312b.web.app/)
-- [Taste Treasury Live (Netlify)](https://taste-treasury.netlify.app/)
+- [Taste Treasury Live (firebase)]()
+- [Taste Treasury Live (Netlify)]()
 
 ---
 
@@ -110,7 +110,7 @@ To install dependencies manually, use:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/Abubokkor98/career-compass.git
+    git clone https://github.com/sazzad2saad/taste-treasury-dev.git
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -177,10 +177,9 @@ We welcome contributions! Follow these steps to contribute:
 
 ### **🙋‍♂️ About the Developer**
 
-Built with 💻 and passion by **Abu Bokkor Siddik**.
+Built with 💻 and passion by **Sazzadur Rahman Saad**.
 
-- **GitHub**: [Abubokkor98](https://github.com/Abubokkor98)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/abubokkor)
+- **GitHub**: [sazzad2saad](https://https://github.com/sazzad2saad)
 
 ---
 

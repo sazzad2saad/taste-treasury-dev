@@ -43,7 +43,6 @@ const verifyToken = (req, res, next) => {
 
 
 // mongo db
-
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@taste-treasury.mdxy97u.mongodb.net/?appName=taste-treasury`;
 
 

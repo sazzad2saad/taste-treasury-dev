@@ -4,8 +4,7 @@
 
 🔗 **Live Site:**
 
-- [Taste Treasury Live (firebase)]()
-- [Taste Treasury Live (Netlify)]()
+- [Taste Treasury Live (Netlify)](https://tastetreasury.netlify.app/)
 
 ---
 

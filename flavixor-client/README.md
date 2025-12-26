@@ -6,6 +6,8 @@
 
 - [Flavixor Live (Netlify)](https://flavixor.netlify.app/)
 
+- [Youtube Demonstration (Youtube) ](https://youtu.be/oVijqiSfP3A)
+
 ---
 
 ### **🚀 Overview**  

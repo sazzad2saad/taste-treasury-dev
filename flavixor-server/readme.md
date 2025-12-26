@@ -5,6 +5,7 @@ This is the backend server for **Flavixor**, the restaurant management platform.
 🔗 **Live API Endpoint:**  
 - [Flavixor Backend (Render)](https://taste-treasury-server.onrender.com/)  
 - [Flavixor Frontend (netlify)](https://flavixor.netlify.app/)  
+- [Youtube Demonstration (Youtube) ](https://youtu.be/oVijqiSfP3A)
 
 ---
 
